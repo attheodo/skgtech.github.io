@@ -1,0 +1,16 @@
+_site
+.jekyll-metadata
+.sass-cache
+
+.idea
+Thumbs.db
+.DS_Store
+
+.rbenv-version
+.rvmrc
+
+node_modules
+assets/components
+
+wiki
+temp
